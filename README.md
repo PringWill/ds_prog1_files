@@ -1,11 +1,10 @@
 Program #1
 
-Name:
+Name: William Pring
 
 COSC 2030
 
-Competing: YES or NO
+Competing: NO
 
 Best run time:
 
-Anything that doesn't work:
